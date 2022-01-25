@@ -40,15 +40,14 @@
 <br/>
 
 ### Github Stats
-<div align="center">
-    <div display="flex" justify-content="space-between">
+
+<p align="center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sid1608&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1608&layout=compact&langs_count=16&theme=dracula"/>
-    </div>
+</p>
+<p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=sid1608&theme=monokai-metallian"/>
-</div>
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sid1608&theme=monokai-metallian)](https://git.io/streak-stats) -->
-
+</p>
 <details><summary>Contribution Graph</summary>
 <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sid1608&theme=chartreuse-dark&no-frame=true" /></p>
