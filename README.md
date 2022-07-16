@@ -6,10 +6,10 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 - 🔭I am a Third-Year Student at [Lnmiit, Jaipur](https://www.lnmiit.ac.in/) 
-- 🌱 I’m currently learning Reactjs, Redux, Nodejs
+- 🌱 I’m currently working on a personal project using Mern Stack.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 👨‍💻 All of my projects are available at [sid1608](https://github.com/Sid1608) 
-- 💬 Upcomming SDE Intern @Qoala.
+- 💬 SDE Intern @Qoala.
 - 📫 You can reach me at [akarsiddharth@gmail.com](akarsiddharth@gmail.com)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
