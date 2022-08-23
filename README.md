@@ -9,7 +9,7 @@
 - 🌱 I’m currently working on a personal project using Mern Stack.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 👨‍💻 All of my projects are available at [sid1608](https://github.com/Sid1608) 
-- 💬 SDE Intern @Qoala.
+- 💬 Former SDE Intern @Qoala.
 - 📫 You can reach me at [akarsiddharth@gmail.com](akarsiddharth@gmail.com)
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
