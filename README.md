@@ -5,7 +5,7 @@
 <!-- ![](https://komarev.com/ghpvc/?username=sid1608&style=flat-square&color=13b982&label=Profile%20views) -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🔭I am a Third-Year Student at [Lnmiit, Jaipur](https://www.lnmiit.ac.in/) 
+- 🔭 Graduated From [Lnmiit, Jaipur](https://www.lnmiit.ac.in/) 
 - 🌱 I’m currently working as a Backend Engineer at Qoala.
 - 👯 I’m looking forward to collaborate on open source projects.
 - 👨‍💻 All of my projects are available at [sid1608](https://github.com/Sid1608) 
