@@ -36,9 +36,11 @@
 
 ### GitHub Stats:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sid1608" alt="sid1608" /> </p>
+
 <p align="center">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sid1608&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1608&layout=compact&langs_count=16&theme=dracula"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid1608&layout=compact&langs_count=16&theme=dracula&count_private=true"/>
 </p>
 
 <p align="center">
@@ -47,8 +49,35 @@
 
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sid1608&theme=chartreuse-dark&no-frame=true" /></p>
+<a href="https://github.com/sid1608/github-readme-activity-graph"><img alt="sid1608's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sid1608&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<!---
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=sid1608&theme=chartreuse-dark&no-frame=true" /></p> 
+-->
+
 </details>
+
+<!---
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@denvercoder1"><img src="https://holopin.me/denvercoder1" alt="@denvercoder1&#39;s Holopin board"></a></p>
+</details>
+
+-->
+
+
 
 ---
 
