@@ -4,7 +4,7 @@
 ---
 
 - 🎓 **Graduate** from [LNMIIT, Jaipur](https://www.lnmiit.ac.in/)
-- 💻 **Backend Engineer** at [Qoala](https://www.qoala.co.id/)
+- 💻 **Software Engineer 2** at [Qoala](https://www.qoala.co.id/)
 - 💬 **Former SDE Intern '22** at Qoala
 - 🌱 I’m looking to contribute to **open-source projects**
 - 👨‍💻 Check out my work on [GitHub](https://github.com/Sid1608)
